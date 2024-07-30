@@ -19,6 +19,15 @@ The project involves the following steps:
 - `handle_null_values.sql`: Handles null or blank values in the dataset.
 - `remove_columns.sql`: Removes unnecessary columns from the cleaned dataset.
 
+## Key Tasks:
+
+- **Removed Duplicates:** Utilized SQL queries to identify and eliminate duplicate records, ensuring data consistency.
+- **Standardized Data:** Cleaned and standardized data formats, including text normalization, date formatting, and country names.
+- **Handled Missing Values:** Addressed null or blank values by updating entries and applying appropriate default values or placeholders.
+- **Data Validation:** Performed data validation to ensure accuracy and integrity, including checking for anomalies and inconsistencies.
+- **Optimized Performance:** Enhanced query performance for data processing by using efficient SQL techniques and staging tables.
+
+
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Open the Excel file for the raw data [world_layoffs](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/0fe73d91700f8b5ee5bc39d2d1395d55839cab75/hr%20analytics%20dashboard.xlsx) or [layoffs csv](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/main/layoffs.csv).
