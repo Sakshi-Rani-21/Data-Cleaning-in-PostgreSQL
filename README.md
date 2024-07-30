@@ -19,6 +19,8 @@ The project involves the following steps:
 - `handle_null_values.sql`: Handles null or blank values in the dataset.
 - `remove_columns.sql`: Removes unnecessary columns from the cleaned dataset.
 
+##
+
 
 
 
