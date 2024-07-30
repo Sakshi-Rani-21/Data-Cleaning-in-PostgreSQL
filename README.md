@@ -19,7 +19,10 @@ The project involves the following steps:
 - `handle_null_values.sql`: Handles null or blank values in the dataset.
 - `remove_columns.sql`: Removes unnecessary columns from the cleaned dataset.
 
-##
+## yGetting Started
+1. Clone this repository to your local machine.
+2. Open the Excel file for the raw data[world_layoffs](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/0fe73d91700f8b5ee5bc39d2d1395d55839cab75/hr%20analytics%20dashboard.xlsx) explore the dashboard.
+3. Dive into the 
 
 
 
