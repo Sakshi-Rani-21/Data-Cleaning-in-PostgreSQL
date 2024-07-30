@@ -21,8 +21,9 @@ The project involves the following steps:
 
 ## yGetting Started
 1. Clone this repository to your local machine.
-2. Open the Excel file for the raw data [world_layoffs](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/0fe73d91700f8b5ee5bc39d2d1395d55839cab75/hr%20analytics%20dashboard.xlsx) or [laoffs csv](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/main/layoffs.csv).
-3. Open the file [Data Cleaning Process](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/main/data%20cleaning.sql) for the sql queries
+2. Open the Excel file for the raw data [world_layoffs](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/0fe73d91700f8b5ee5bc39d2d1395d55839cab75/hr%20analytics%20dashboard.xlsx) or [layoffs csv](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/main/layoffs.csv).
+3. Open the file [Data Cleaning Process](https://github.com/Sakshi-Rani-21/Data-Cleaning-in-PostgreSQL/blob/main/data%20cleaning.sql) for the sql queries.
+4. Check here the cleand data [Cleaned data]
 
 
 
